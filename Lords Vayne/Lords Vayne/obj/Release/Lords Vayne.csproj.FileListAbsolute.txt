@@ -1,0 +1,10 @@
+D:\Visual Studio\Lords Vayne\Lords Vayne\bin\Release\Lords Vayne.dll
+D:\Visual Studio\Lords Vayne\Lords Vayne\bin\Release\Lords Vayne.pdb
+D:\Visual Studio\Lords Vayne\Lords Vayne\bin\Release\HesaEngine.Core.dll
+D:\Visual Studio\Lords Vayne\Lords Vayne\bin\Release\SharpDX.DirectInput.dll
+D:\Visual Studio\Lords Vayne\Lords Vayne\bin\Release\SharpDX.dll
+D:\Visual Studio\Lords Vayne\Lords Vayne\bin\Release\fasmdll_managed.dll
+D:\Visual Studio\Lords Vayne\Lords Vayne\bin\Release\SharpDX.Direct3D9.dll
+D:\Visual Studio\Lords Vayne\Lords Vayne\bin\Release\fasmdll_managed.pdb
+D:\Visual Studio\Lords Vayne\Lords Vayne\obj\Release\Lords Vayne.dll
+D:\Visual Studio\Lords Vayne\Lords Vayne\obj\Release\Lords Vayne.pdb
